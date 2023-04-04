@@ -1,0 +1,17 @@
+.disciplinas {
+  padding: 1rem;
+  background: linear-gradient(
+    90deg,
+    rgb(132, 53, 222,1) 0%,
+    rgba(184,84,232,1) 100%
+  );
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+ 
+}
+
+.disciplinas-list__fallback {
+  color: white;
+  text-align: center;
+}
